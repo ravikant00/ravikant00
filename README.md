@@ -1,5 +1,5 @@
 # Hii.. I'm RaviKant Chaurasiya
-# 💫 About Me: 
+## 💫 About Me: 
 👨‍💻 Aspiring Software Developer | CSE Graduate<br>🚀 Full-Stack Developer | MERN Stack<br>💻 Skills: JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB<br>🤖 Exploring AI, LLMs & Retrieval-Augmented Generation (RAG)<br>🔨 Building practical projects and innovative solutions<br>📈 Focused on continuous learning and writing clean, efficient code
 
 
